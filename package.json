@@ -1,0 +1,19 @@
+{
+    "name": "client",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/app.js",
+    "scripts": {
+        "start": "./bin/qode ."
+    },
+    "dependencies": {
+        "@nodegui/nodegui": "latest",
+        "@nodegui/qode": "latest"
+    },
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
