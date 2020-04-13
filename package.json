@@ -8,10 +8,13 @@
     },
     "dependencies": {
         "@nodegui/nodegui": "latest",
-        "@nodegui/qode": "latest"
+        "@nodegui/qode": "latest",
+        "mkdirp": "^1.0.4"
     },
     "devDependencies": {
-        "@types/node": "latest"
+        "@types/mkdirp": "^1.0.0",
+        "@types/node": "latest",
+        "source-map-support": "^0.5.16"
     },
     "keywords": [],
     "author": "",
